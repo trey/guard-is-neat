@@ -1,0 +1,2 @@
+guard 'sass', :input => 'source/sass', :output => 'compiled/css'
+guard 'coffeescript', :input => 'source/coffeescript', :output => 'compiled/js'
